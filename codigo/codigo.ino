@@ -273,5 +273,3 @@ void updateLCD(int position) {
   lcd.print(position);
   lcd.print("    "); // Limpa caracteres extras
 }
-
-//Commit
